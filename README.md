@@ -20,5 +20,6 @@ Este jogo é inspirado no clássico jogo do dinossauro do Google Chrome. O objet
 - **JavaScript**: Lógica do jogo e interação.
 
 ## 📸 Demonstração
-![image](https://github.com/user-attachments/assets/837550d2-8c33-4d7a-9a91-44d387cd7cfd)
+![image](https://github.com/user-attachments/assets/074f1770-170c-4f70-af47-17459516c7bd)
+
 
